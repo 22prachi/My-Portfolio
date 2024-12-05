@@ -51,8 +51,8 @@ const Projects = () => {
 
         <ProjectsCard
           title="Video Lecture Assignment"
-          main="This project contains a playlist of 12 video lectures covering various topics. You can access the complete playlist on YouTube via the following link: [YouTube Playlist](https://www.youtube.com/your-playlist-link)."
-          demoLink="https://www.youtube.com/your-playlist-link"
+          main="This project contains a playlist of 12 video lectures covering various topics. You can access the complete playlist on YouTube via the following link: [YouTube Playlist](https://www.youtube.com/playlist?list=PLuSS0ahdkB09Jsgfg25JcymZgV2zcWO7Q)"
+          demoLink="https://www.youtube.com/playlist?list=PLuSS0ahdkB09Jsgfg25JcymZgV2zcWO7Q"
           projectImage={you}
 
           />
